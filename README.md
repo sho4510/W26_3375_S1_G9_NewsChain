@@ -36,14 +36,12 @@ Open the Figma prototype link:
 Click the ▶ Play button (top-right) to launch the interactive prototype
 Use mouse clicks to navigate between screens as you would tap on a phone
 
-Option 2 — View on mobile (Figma app)
-
+Option 2 — View on mobile (Figma app):
 Install the Figma app on your iOS or Android device
 Log in to Figma and open the shared prototype link above
 Tap the ▶ Play button to run the prototype in mobile view
 
-How to interact with the prototype
-
+How to interact with the prototype:
 Home screen → Tap a news card to open the story chain (Item Detail)
 Item Detail → Tap backwards through chain nodes to trace the story
 Home screen → Tap "How to interact" to see the Chain Navigation onboarding screen
@@ -51,18 +49,8 @@ Bottom nav bar → Navigate between Home, Explore, Reading Path, and Profile
 Item Detail / News Detail → Tap "View Detail >" to see the Credibility screen
 
 
-Repository Structure
-/
-├── README.md                        ← This file
-├── DocumentsAndReports/
-│   ├── W26_3375_S1_G9_NewsChain_Proposal.pdf
-│   ├── W26_3375_S1_G9_NewsChain_RequirementsDocument.pdf
-│   ├── W26_3375_S1_G9_NewsChain_FinalReport.pdf
-│   └── ShoO_ProgressReport1.pdf
-
-Documents
+Documents:
 DocumentDescriptionProposalInitial app concept and project overviewRequirements DocumentUser Study 1, personas, requirements synthesisProgress Report #1UI component implementation logFinal ReportComplete design documentation including both user studies
 
-References
-
+References:
 Figma: https://www.figma.com
